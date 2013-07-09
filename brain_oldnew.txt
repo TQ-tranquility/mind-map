@@ -1,0 +1,56 @@
+# Edgelist for tranquility's brain map mind-map
+Old Brain,Hand-eye coordination
+Old Brain,Body language
+Old Brain,Art
+Old Brain,Music
+Old Brain,Emotions / Feelings
+Old Brain,Instinct
+Old Brain,Cooking
+Old Brain,Religion / "God"
+Old Brain,Consciousness
+Old Brain,Knowledge
+Old Brain,Executive functions
+Old Brain,Intuition
+New Brain,Social brain
+New Brain,Language
+New Brain,Planning
+New Brain,Logic
+New Brain,Math
+New Brain,Intelligence
+New Brain,Reasoning
+New Brain,Wisdom
+New Brain,Perception
+New Brain,Attention
+New Brain,Decision-making
+New Brain,Financial sense
+New Brain,Cognition
+New Brain,Existentialism
+New Brain,"Values" / "morals"
+New Brain,"Conscience"
+New Brain,"Life center"
+New Brain,Self-consciousness
+Hand-eye coordination,Body language
+Body language,Language
+Body language,Emotions / Feelings
+Art,Cooking
+Music,Emotions / Feelings
+Emotions / Feelings,Instinct
+Emotions / Feelings,Perception
+Emotions / Feelings,Social brain
+Religion / "God","Values" / "morals"
+Consciousness,Self-consciousness
+Consciousness,Perception
+Knowledge,Wisdom
+Knowledge,Language
+Executive functions,Attention
+Executive functions,Decision-making
+Social brain,"Values" / "morals"
+Social brain,"Life center"
+Social brain,Self-consciousness
+Planning,Decision-making
+Logic,Math
+Logic,Reasoning
+Logic,Financial sense
+Intelligence,Wisdom
+Existentialism,Reasoning
+"Conscience","Values" / "morals"

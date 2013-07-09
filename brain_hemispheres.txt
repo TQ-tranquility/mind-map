@@ -1,0 +1,63 @@
+# Edgelist for tranquility's brain map mind-map
+Right Hemisphere,Hand-eye coordination
+Right Hemisphere,Body language
+Right Hemisphere,Art
+Right Hemisphere,Music
+Right Hemisphere,Emotions / Feelings
+Right Hemisphere,Cooking
+Right Hemisphere,Religion / "God"
+Right Hemisphere,Consciousness
+Right Hemisphere,Intuition
+Right Hemisphere,Social brain
+Right Hemisphere,Wisdom
+Right Hemisphere,"Values" / "morals"
+Right Hemisphere,"Conscience"
+Right Hemisphere,"Life center"
+Right Hemisphere,Self-consciousness
+Left Hemisphere,Hand-eye coordination
+Left Hemisphere,Body language
+Left Hemisphere,Instinct
+Left Hemisphere,Consciousness
+Left Hemisphere,Knowledge
+Left Hemisphere,Executive functions
+Left Hemisphere,Social brain
+Left Hemisphere,Language
+Left Hemisphere,Planning
+Left Hemisphere,Logic
+Left Hemisphere,Math
+Left Hemisphere,Intelligence
+Left Hemisphere,Wisdom
+Left Hemisphere,Reasoning
+Left Hemisphere,Attention
+Left Hemisphere,Decision-making
+Left Hemisphere,Financial sense
+Left Hemisphere,Cognition
+Left Hemisphere,Existentialism
+Left Hemisphere,"Values" / "morals"
+Left Hemisphere,"Life center"
+Left Hemisphere,Self-consciousness
+Hand-eye coordination,Body language
+Body language,Language
+Body language,Emotions / Feelings
+Art,Cooking
+Music,Emotions / Feelings
+Emotions / Feelings,Instinct
+Emotions / Feelings,Perception
+Emotions / Feelings,Social brain
+Religion / "God","Values" / "morals"
+Consciousness,Self-consciousness
+Consciousness,Perception
+Knowledge,Wisdom
+Knowledge,Language
+Executive functions,Attention
+Executive functions,Decision-making
+Social brain,"Values" / "morals"
+Social brain,"Life center"
+Social brain,Self-consciousness
+Planning,Decision-making
+Logic,Math
+Logic,Reasoning
+Logic,Financial sense
+Intelligence,Wisdom
+Existentialism,Reasoning
+"Conscience","Values" / "morals"
